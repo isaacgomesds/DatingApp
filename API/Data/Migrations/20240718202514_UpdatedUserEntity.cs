@@ -47,7 +47,7 @@ namespace API.Data.Migrations
                 defaultValue: "");
 
             migrationBuilder.AddColumn<string>(
-                name: "Interestes",
+                name: "Interests",
                 table: "Users",
                 type: "TEXT",
                 nullable: true);
