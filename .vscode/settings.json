@@ -1,0 +1,12 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[csharp]": {
+        "editor.defaultFormatter": "ms-dotnettools.csharp",
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true
+    },
+    "files.exclude": {
+        "**/bin": true,
+        "**/obj": true
+    }
+}
